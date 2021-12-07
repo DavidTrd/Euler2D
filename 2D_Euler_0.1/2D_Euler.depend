@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1635249216 source:c:\users\david\documents\codebbblocks\2d_euler\src\sit.cpp
+	"sit.h"
+
+1637070013 c:\users\david\documents\codebbblocks\2d_euler\include\sit.h
+	<vector>
+
+1636468050 source:c:\users\david\documents\codebbblocks\2d_euler\main.cpp
+	<iostream>
+	<vector>
+	"sit.h"
+	"generatorSite.h"
+	"ctyruhelnik.h"
+
+1635252618 c:\users\david\documents\codebbblocks\2d_euler\generatorsite.h
+	<vector>
+	<cmath>
+
+1636466861 c:\users\david\documents\codebbblocks\2d_euler\ctyruhelnik.h
+	<vector>
+	"usecka.h"
+
+1636468106 c:\users\david\documents\codebbblocks\2d_euler\usecka.h
+	<cmath>
+	"bod.h"
+	"vektor2D.h"
+
+1636466789 c:\users\david\documents\codebbblocks\2d_euler\bod.h
+
+1636467482 c:\users\david\documents\codebbblocks\2d_euler\vektor2d.h
+
+1635249216 source:c:\users\david\documents\codebbblocks\2d_euler_0.1\src\sit.cpp
+	"sit.h"
+
+1638878275 c:\users\david\documents\codebbblocks\2d_euler_0.1\include\sit.h
+	<vector>
+	"../usecka.h"
+	"../ctyruhelnik.h"
+
+1636468243 c:\users\david\documents\codebbblocks\2d_euler_0.1\usecka.h
+	<cmath>
+	"bod.h"
+	"vektor2D.h"
+
+1636466789 c:\users\david\documents\codebbblocks\2d_euler_0.1\bod.h
+
+1636467482 c:\users\david\documents\codebbblocks\2d_euler_0.1\vektor2d.h
+
+1636466861 c:\users\david\documents\codebbblocks\2d_euler_0.1\ctyruhelnik.h
+	<vector>
+	"usecka.h"
+
